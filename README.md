@@ -31,6 +31,8 @@ My_new_module requires:
 3) Re-run cmake and launch a clean build of AzerothCore.
 ```
 
+You probably need to move the sql/world/base files into data/sql/world/base by yourself and azerothcore and apply the .sql files on its own.
+
 ## Edit the module's configuration (optional)
 
 No config available at this time.
